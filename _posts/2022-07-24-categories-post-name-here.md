@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-excerpt: "권동욱에 대한 소개"
+excerpt: "Includes self-introduction, career summary, educational background, etc."
 
 categories:
   - Categories1

@@ -1,6 +1,6 @@
 ---
-title: "DIAL LAB"
-excerpt: "연구 분야"
+title: "Skills"
+excerpt: "Lists the skills, languages, tools, frameworks, etc., that you possess."
 
 categories:
   - Categories1

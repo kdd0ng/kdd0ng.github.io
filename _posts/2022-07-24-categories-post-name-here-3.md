@@ -1,9 +1,9 @@
 ---
-title: "[포스팅 예시] 이곳에 제목을 입력하세요"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
+title: "Education"
+excerpt: "Provides details about your degrees, schools, majors, academic accomplishments, etc. "
 
 categories:
-  - Categories3
+  - Categories1
 tags:
   - [tag1, tag2]
 

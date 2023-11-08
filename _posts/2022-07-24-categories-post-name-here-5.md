@@ -1,6 +1,6 @@
 ---
-title: "Achievements and Certifications"
-excerpt: "Records any awards, certifications, or honors have received."
+title: "Contact"
+excerpt: ""
 
 categories:
   - Categories1
