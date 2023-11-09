@@ -12,10 +12,12 @@ permalink: /categories1/post-name-here-4/
 toc: true
 toc_sticky: true
 
-date: 2022-07-24
-last_modified_at: 2022-07-24
+date: 2023-11-08
+last_modified_at: 2023-11-08
 ---
 
 ## 🦥 본문
 
-본문은 여기에 ...
+- 2022 SW 실험실습 교과목 결과발표회 수상 \
+- 1종보통 운전면허 \
+- powerpoint, 한글, excel master 1급 \

@@ -18,4 +18,17 @@ last_modified_at: 2023-11-08
 
 ## 🦥 본문
 
-본문은 여기에 ...
+**Language Skills**
+
+- TOEIC 800
+
+---
+
+**Programming Language**
+
+- C, C++
+- Python
+- Javascript, css, html
+
+---
+
